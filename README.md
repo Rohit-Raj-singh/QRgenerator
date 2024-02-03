@@ -1,0 +1,2 @@
+# QRgenerator
+My first repository.
